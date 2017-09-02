@@ -21,6 +21,7 @@ This bot demonstrates many of the core features of Botkit:
 
   Follow the instructions here to set up your Facebook app and page:
 
+      //This one is expire 
     -> https://developers.facebook.com/docs/messenger-platform/implementation
 
   Run your bot from the command line:
